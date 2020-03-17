@@ -2,7 +2,8 @@
 
 Original image: `https://github.com/GoogleCloudPlatform/cloud-builders/tree/master/kubectl`
 
-Docker image to perform commands in gcloud kubernetes-cluster
+Docker image to perform commands in gcloud kubernetes-cluster `https://hub.docker.com/r/simonjansson/gcloud-kubectl`
+
 
 ---
 
